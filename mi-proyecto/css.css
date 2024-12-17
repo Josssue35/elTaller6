@@ -1,5 +1,8 @@
 body{
     background-color: #06283D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   
 }
 p{
@@ -11,6 +14,8 @@ p{
     height: 400px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     
 }
 .top{
